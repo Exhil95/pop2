@@ -5,3 +5,4 @@ cztery
 pięć
 sześć
 dziesięć
+jedenaście

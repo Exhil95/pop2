@@ -6,3 +6,4 @@ pięć
 sześć
 siedem
 osiem
+dziewięć

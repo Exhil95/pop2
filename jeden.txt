@@ -7,3 +7,5 @@ sześć
 siedem
 osiem
 dziewięć
+dziesięć
+jedenaście
